@@ -21,7 +21,7 @@ flutter plugin 允许 flutter代码 和 原生代码 相互调用，这里我们
 
 登陆涂鸦开发者平台，找到自己的SDK开发App，下载SDK并构建完成后，可以下载两端的依赖文件，下载下来备用：
 
-![下载SDK](./doc/sdkApp.png)
+![下载SDK](/doc/sdkApp.png)
 
 ## 创建插件
 
