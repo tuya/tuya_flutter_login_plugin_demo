@@ -482,7 +482,7 @@ static FlutterMethodChannel * sLoginPluginChannel;
 *ps：代码仅作参考*
 
 
-## Andrtoi 插件开发
+## Android 插件开发
 
 #### 配置 build.gradle 文件
 
